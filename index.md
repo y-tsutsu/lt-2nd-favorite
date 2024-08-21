@@ -11,13 +11,13 @@ paginate: true
 _class: lead invert
 -->
 
-![bg brightness:0.5](images/background.jpg)
+![bg brightness:0.5](images/background1.jpg)
 
 # 2番目の趣味🎮
 
 ---
 
-![bg brightness:0.5](images/background.jpg)
+![bg brightness:0.5](images/background1.jpg)
 
 # About me
 
@@ -31,7 +31,7 @@ _class: lead invert
 
 ---
 
-![bg brightness:0.5](images/background.jpg)
+![bg brightness:0.5](images/background1.jpg)
 
 # Achievements
 
@@ -41,7 +41,7 @@ VS Codeへのコントリビュート 　　 技術雑誌への寄稿
 
 ---
 
-![bg brightness:0.5](images/background.jpg)
+![bg brightness:0.5](images/background1.jpg)
 
 # 今日お話しすること
 
@@ -51,7 +51,7 @@ VS Codeへのコントリビュート 　　 技術雑誌への寄稿
 
 ---
 
-![bg brightness:0.5](images/background.jpg)
+![bg brightness:0.5](images/background1.jpg)
 
 # About me
 
@@ -85,7 +85,7 @@ Python 初心者のコード／プロのコード
 
 ---
 
-![bg brightness:0.5](images/background.jpg)
+![bg brightness:0.5](images/background1.jpg)
 
 ## この書籍の目次
 
@@ -102,21 +102,36 @@ Python 初心者のコード／プロのコード
 
 ---
 
-![bg brightness:0.5](images/background.jpg)
+![bg brightness:0.5](images/background1.jpg)
 
 ## この書籍のおすすめポイント
 
-- サプーの中の人は（現役の？）エンジニアのようで
+- サプーの中の人は（現役の？）エンジニアのようで，仕事でのコードという視点で実践的な内容が多いです
+- 対象とするレベルが絶妙です．入門とベテラン向けのちょうど中間くらいの難易度となっています
+- サンプルコードが疑似コードでなく実際に動かせるPythonで書かれています
+- Pythonに限った内容ではなく，他言語にも置き換えて参考になる内容が多いです
+- エラーの解消も取り扱っておりより実践的な内容となっています
 
 ---
 
-![bg brightness:0.5](images/background.jpg)
+![bg brightness:0.5](images/background1.jpg)
 
 <!--
 _class: lead invert
 -->
 
-## この書籍を使って会社で読書会も検討中です📚
+### 読んでみて損はない内容化と思いますので
+### 興味のある人は本屋さんで手にとってみてください📚
+
+---
+
+![bg brightness:0.5](images/background1.jpg)
+
+<!--
+_class: lead invert
+-->
+
+## この書籍を使って会社で読書会も検討中です🖊️
 
 <br/>
 
@@ -128,6 +143,6 @@ _class: lead invert
 _class: lead invert
 -->
 
-![bg brightness:0.5](images/background.jpg)
+![bg brightness:0.5](images/background1.jpg)
 
-# Thank **You** for Reading :smiley:
+# Thank **You** for Reading 😀
